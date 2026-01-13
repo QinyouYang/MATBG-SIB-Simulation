@@ -1,0 +1,30 @@
+{
+  "dataset_info": {
+    "name": "MATBG钠离子电池模拟数据集 - 修订版",
+    "version": "2.0 (Revised)",
+    "generation_time": "2025-12-25T22:48:47.408170",
+    "twist_angle": 1.1,
+    "temperature": 298.15
+  },
+  "key_corrections": {
+    "specific_capacity": {
+      "original_wrong": "742 mAh/g",
+      "corrected": "420.0 mAh/g",
+      "basis": "NaC8 coordination with realistic DOS enhancement"
+    },
+    "dos_enhancement": {
+      "original_wrong": "~8.7",
+      "corrected": "2.47",
+      "basis": "Limited to experimentally observed range (1.5-2.5)"
+    }
+  },
+  "data_structure": {
+    "electrochemical": "电化学性能数据（CV, GCD, 循环稳定性, 倍率性能）",
+    "characterization": "材料表征数据（SEM, TEM, XRD, 拉曼, AFM）",
+    "insitu": "原位分析数据（原位XRD, 拉曼, EIS, 表面变化）",
+    "figures": "综合分析图表",
+    "reports": "数据分析报告"
+  },
+  "file_count": 78,
+  "total_size_mb": 8.17
+}

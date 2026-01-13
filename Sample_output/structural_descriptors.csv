@@ -1,0 +1,11 @@
+Category,Descriptor,Symbol,Value,Unit
+Geometric,Twist angle,θ,1.10,°
+Geometric,Moiré period,L_M,12.81,nm
+Geometric,Interlayer distance,d,3.36,Å
+Electronic,Flat band width,W_FB,11.24,meV
+Electronic,DOS enhancement,η_DOS,2.47,-
+Energetic,Adsorption energy,E_ads,-1.65,eV
+Energetic,Diffusion barrier,E_a,0.28,eV
+Kinetic,Diffusion coefficient,D,1.85e-15,cm²/s
+Electrochemical,Specific capacity,C,420.0,mAh/g
+Electrochemical,Average voltage,V_avg,0.80,V
