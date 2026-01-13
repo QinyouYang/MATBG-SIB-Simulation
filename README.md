@@ -13,7 +13,7 @@ complete_revised_package/
 │   ├── material_characterization.py       # Material characterization simulation
 │   ├── insitu_analysis.py                # In-situ analysis simulation
 │   └── complete_dataset_generator_revised.py  # Dataset generator (revised)
-└── sample_output/                         # Sample output data
+└── Sample_output/                         # Sample output data
     ├── electrochemical/                   # Electrochemical data
     ├── characterization/                  # Characterization data
     ├── insitu/                           # In-situ analysis data
